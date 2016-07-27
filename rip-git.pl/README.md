@@ -7,3 +7,7 @@ rip-git.pl
 GitHack是python写的，就比较方便了。
 
 但是用GitHack跑，.git目录跑不出来，换做rip-git.pl来跑就可以了。
+
+## 用法示例 ##
+
+    ./rip-git.pl -v -u "http://www.github.com/.git/"
